@@ -33,9 +33,16 @@ This is a simple bidirectional text editor application that allows multiple user
 2. Install dependencies:
 
    ```
-   cd bidirectional-text-editor
+   cd client
    npm install
+   npm start
    ```
+   ```
+   cd server
+   npm install
+   npm run start
+   ```
+   
 
 3. Set up MongoDB:
 
